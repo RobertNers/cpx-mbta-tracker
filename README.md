@@ -16,6 +16,12 @@ It interprets serial signals received from `brain` and lights up accordingly.
 - Written in and thus probably requires Python 3.14.
 - `pip`
 
+## Important Note
+
+This is currently a work in progress.
+No real functionality exists at this time.
+I will update this note as things come together piece-by-piece.
+
 ## Setup
 
 Clone this repo and install dependencies:
