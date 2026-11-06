@@ -3,5 +3,6 @@
 .env.*
 !.env.example
 .venv/
+.venv-cpx/
 __pycache__/
 *.py[cod]
